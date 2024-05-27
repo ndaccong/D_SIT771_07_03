@@ -1,0 +1,14 @@
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/bin/Debug/net8.0/code
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/bin/Debug/net8.0/code.deps.json
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/bin/Debug/net8.0/code.runtimeconfig.json
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/bin/Debug/net8.0/code.dll
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/bin/Debug/net8.0/code.pdb
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/code.AssemblyInfoInputs.cache
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/code.AssemblyInfo.cs
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/code.csproj.CoreCompileInputs.cache
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/code.dll
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/refint/code.dll
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/code.pdb
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/code.genruntimeconfig.cache
+/Users/congnguyen/Deakin_S736/SIT771/07_03/code/obj/Debug/net8.0/ref/code.dll
